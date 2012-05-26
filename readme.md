@@ -14,4 +14,4 @@ app.configure(function () {
 	app.set('view engine', 'html')
 ```
 # Notes
-* An alternative is to use ejs in the browser, see the module ejsinbrowser
+* An alternative is to use ejs in the browser, see the module [ejsinbrowser](https://github.com/haraldrudell/ejsinbrowser)
