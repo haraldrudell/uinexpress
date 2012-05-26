@@ -2,7 +2,7 @@
 	"name": "uinexpress",
 	"description": "Enables underscore templates in express 2 and 3. By Harald Rudell.",
 	"author": "Harald Rudell <harald@allgoodapps.com>",
-	"version": "0.0.2",
+	"version": "0.0.4",
 	"contributors": [
 		{
 			"name": "Harald Rudell",
